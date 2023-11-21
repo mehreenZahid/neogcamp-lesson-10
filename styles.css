@@ -1,7 +1,24 @@
 body{
     text-align: center;
+    background-color: pink;
 }
 
 label{
     display: block;
+    margin: 1rem;
+    font-size: 19px;
+}
+
+input{
+    padding: 7px;
+    
+}
+
+button{
+    padding: 7px;
+    margin-bottom: 1rem;
+}
+
+textarea{
+    padding: 8px;
 }
